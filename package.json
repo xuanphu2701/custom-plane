@@ -32,5 +32,8 @@
     "chokidar": "3.6.0",
     "tar-fs": "3.0.9"
   },
-  "packageManager": "yarn@1.22.22"
+  "packageManager": "yarn@1.22.22",
+  "dependencies": {
+    "yarn": "^1.22.22"
+  }
 }
